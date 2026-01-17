@@ -26,7 +26,7 @@ To engineer intelligence that advances financial systems by combining machine le
 QuantSingularity’s portfolio includes 21 projects across finance engineering, fintech, AI, data science, and blockchain, plus 6 multi-agent frameworks focused on automation, AML/fraud detection, and risk orchestration. Each project includes a dedicated README with examples and demo instructions.
 
 ## Contribution and collaboration
-QuantSingularity is currently run by a solo founder and engineer. Contributions and collaborations are welcome but are reviewed with emphasis on reproducibility, testing, and security.
+Contributions and collaborations are welcome but are reviewed with emphasis on reproducibility, testing, and security.
 
 To contribute:
 1. Open an issue describing the proposal.  
