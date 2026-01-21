@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/website-LinkedIn-blue)](https://www.linkedin.com/company/quantsingularity)
 
 ## About
-QuantSingularity is an independent R&D lab. We design and ship production-ready architectures at the intersection of artificial intelligence, quantitative finance, blockchain, and multi-agent systems. Our work moves advanced research into reliable, auditable systems for real-world financial and regulatory workflows.
+QuantSingularity is an independent R&D lab at the intersection of artificial intelligence, quantitative finance, blockchain, and multi-agent systems. We design and ship production-ready architectures. Our work moves advanced research into reliable, auditable systems for real-world financial and regulatory workflows.
 
 ## Mission
 To engineer intelligence that advances financial systems by combining machine learning, reinforcement learning, and decentralized technologies to optimize risk, automate workflows, and surface decision-ready insights.
