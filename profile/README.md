@@ -23,7 +23,7 @@ To engineer intelligence that advances financial systems by combining machine le
 - Security hygiene - hardened smart contracts, dependency scanning, and monitoring where applicable
 
 ## Portfolio
-QuantSingularity’s portfolio includes 21 projects across finance engineering, fintech, AI, data science, and blockchain, plus 6 multi-agent frameworks focused on automation, AML/fraud detection, and risk orchestration. Each project includes a dedicated README with examples and demo instructions.
+QuantSingularity’s portfolio includes 21 projects across financial engineering, fintech, AI, data science, and blockchain, plus 6 multi-agent frameworks focused on automation, AML/fraud detection, and risk orchestration. Each project includes a dedicated README with examples and demo instructions.
 
 ## Contribution and collaboration
 Contributions and collaborations are welcome but are reviewed with emphasis on reproducibility, testing, and security.
