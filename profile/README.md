@@ -1,5 +1,4 @@
 # QuantSingularity
-**Engineering Tomorrow’s Financial Intelligence Today**
 
 [![LinkedIn](https://img.shields.io/badge/website-LinkedIn-blue)](https://www.linkedin.com/company/quantsingularity)
 
