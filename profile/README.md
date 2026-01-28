@@ -6,7 +6,7 @@
 QuantSingularity is an independent research and engineering lab working at the intersection of quantitative finance, data science, artificial intelligence, blockchain, and multi-agent systems, focused on building rigorous models and real-world solutions. We design and ship production-ready architectures. Our work moves advanced research into reliable, auditable systems for real-world financial and regulatory workflows.
 
 ## Mission
-To engineer intelligence that advances financial systems by combining machine learning, reinforcement learning, and decentralized technologies to optimize risk, automate workflows, and surface decision-ready insights.
+To engineer rigorous and auditable intelligent systems for finance by integrating data-driven modeling, machine learning, reinforcement learning, and decentralized technologies, enabling effective risk management, automated operations, and reliable, decision-ready insights in real-world environments.
 
 ## What we build
 - Quantitative trading systems and portfolio intelligence platforms  
