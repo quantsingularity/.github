@@ -37,7 +37,7 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 |---------|-------------|----------|
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system | Python |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with AI and blockchain | Java |
-| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with AI-driven quantitative models | Python |
+| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform | Python |
 | **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Advanced financial data processing and analytics engine | Python |
 | **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform | Python |
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform | Python |
