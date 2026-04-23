@@ -48,13 +48,13 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[Cortex](https://github.com/QuantSingularity/Cortex)** | Centralized intelligence hub for quantitative research | Python |
 | **[Vantage](https://github.com/QuantSingularity/Vantage)** | Market vantage point analytics and signal generation | Python |
 | **[DataSync](https://github.com/QuantSingularity/DataSync)** | Multi-source financial data synchronization pipeline | Python |
-| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | Quantum-inspired wealth optimization algorithms | Python |
+| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | Advanced AI Hedge Fund Platform | Python |
 | **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints | Python |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation | C++ |
 | **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Microservices orchestration for trading infrastructure | Python |
 | **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Next-generation decentralized finance platform | Python |
-| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | Quantum-enhanced investment strategies | Python |
-| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | Nested portfolio optimization and asset allocation | Python |
+| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-Powered Predictive Investment Analytics Platform | Python |
+| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-Powered Tokenized Asset Investment Platform | Python |
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting | Python |
 | **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI Readmission Risk Prediction Platform | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics | Python |
