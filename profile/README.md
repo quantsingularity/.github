@@ -44,7 +44,7 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics | Python |
 | **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis | Python |
 | **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Quantum computing research applied to alpha generation | Python |
-| **[Clarum](https://github.com/QuantSingularity/Clarum)** | Portfolio clarity and risk transparency engine | Python |
+| **[Clarium](https://github.com/QuantSingularity/Clarium)** | Portfolio clarity and risk transparency engine | Python |
 | **[Cortex](https://github.com/QuantSingularity/Cortex)** | Centralized intelligence hub for quantitative research | Python |
 | **[Vantage](https://github.com/QuantSingularity/Vantage)** | Market vantage point analytics and signal generation | Python |
 | **[DataSync](https://github.com/QuantSingularity/DataSync)** | Multi-source financial data synchronization pipeline | Python |
