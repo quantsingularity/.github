@@ -42,12 +42,12 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform | Python |
 | **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics | Python |
 | **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis | Python |
-| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Quantum computing research applied to alpha generation | Python |
+| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI Hedge Fund Platform | Python |
 | **[Clarium](https://github.com/QuantSingularity/Clarium)** | Portfolio clarity and risk transparency engine | Python |
 | **[Cortex](https://github.com/QuantSingularity/Cortex)** | Centralized intelligence hub for quantitative research | Python |
 | **[Vantage](https://github.com/QuantSingularity/Vantage)** | Market vantage point analytics and signal generation | Python |
 | **[DataSync](https://github.com/QuantSingularity/DataSync)** | Multi-source financial data synchronization pipeline | Python |
-| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | Advanced AI Hedge Fund Platform | Python |
+| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-Powered Wealth Management & Robo-Advisory Platform | Python |
 | **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints | Python |
 | **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Microservices orchestration for trading infrastructure | Python |
 | **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Next-generation decentralized finance platform | Python |
