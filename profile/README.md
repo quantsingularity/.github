@@ -27,7 +27,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans 56 open-source repositories across four major domains: fullstack financial applications, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans 56 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -37,19 +37,15 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 |---------|-------------|----------|
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system | Python |
 | **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform | Python |
-| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Advanced financial data processing and analytics engine | Python |
+| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic Asset Liquidity Engine | Python |
 | **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform | Python |
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform | Python |
 | **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics | Python |
 | **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis | Python |
 | **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI Hedge Fund Platform | Python |
-| **[Clarium](https://github.com/QuantSingularity/Clarium)** | Portfolio clarity and risk transparency engine | Python |
-| **[Cortex](https://github.com/QuantSingularity/Cortex)** | Centralized intelligence hub for quantitative research | Python |
-| **[Vantage](https://github.com/QuantSingularity/Vantage)** | Market vantage point analytics and signal generation | Python |
-| **[DataSync](https://github.com/QuantSingularity/DataSync)** | Multi-source financial data synchronization pipeline | Python |
 | **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-Powered Wealth Management & Robo-Advisory Platform | Python |
 | **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints | Python |
-| **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Microservices orchestration for trading infrastructure | Python |
+| **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Embedded Finance Platform | Python |
 | **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Next-generation decentralized finance platform | Python |
 | **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-Powered Predictive Investment Analytics Platform | Python |
 | **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-Powered Tokenized Asset Investment Platform | Python |
@@ -62,9 +58,20 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with AI and blockchain | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Next-generation payment processing infrastructure | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
-| **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Cross-chain bridge infrastructure and analytics | TypeScript |
 | **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration | TypeScript |
+
+### Platform Infrastructure & Core Services
+
+Foundational tooling that powers data ingestion, ML operations, observability, compliance, and open banking connectivity across the QuantSingularity ecosystem.
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[DataSync](https://github.com/QuantSingularity/DataSync)** | Market Data Layer | Python |
+| **[Cortex](https://github.com/QuantSingularity/Cortex)** | MLOps Backbone | Python |
+| **[Vantage](https://github.com/QuantSingularity/Vantage)** | Observability Stack | Python |
+| **[Clarium](https://github.com/QuantSingularity/Clarium)** | RegTech Compliance Module | Python |
+| **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Open Banking Connector | TypeScript |
 
 ### Multi-Agent AI Frameworks
 
@@ -72,7 +79,6 @@ Intelligent multi-agent systems built for automation, AML, fraud detection, cred
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
 | **[Multi-Agent-AI-Systems-for-Financial-Fraud-Detection](https://github.com/QuantSingularity/Multi-Agent-AI-Systems-for-Financial-Fraud-Detection)** | Collaborative agent networks for detecting financial fraud patterns | Python |
 | **[Explainable-AI-Agents-for-Transparent-Financial-Decision-Making](https://github.com/QuantSingularity/Explainable-AI-Agents-for-Transparent-Financial-Decision-Making)** | XAI-powered agents that provide auditable financial decisions | Python |
 | **[Agentic-AI-for-AML-and-Regulatory-Compliance](https://github.com/QuantSingularity/Agentic-AI-for-Anti-Money-Laundering-and-Regulatory-Compliance)** | Autonomous agents for anti-money laundering and compliance workflows | Python |
@@ -98,6 +104,7 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
 | **[LSTM-Walk-Forward-Leakage-Backtesting](https://github.com/QuantSingularity/LSTM-Walk-Forward-Leakage-Backtesting)** | Proper walk-forward validation and leakage prevention for LSTM backtests | Jupyter Notebook |
 | **[Stochastic-Volatility-And-Interest-Rate-Modeling](https://github.com/QuantSingularity/Stochastic-Volatility-And-Interest-Rate-Modeling)** | Stochastic models for volatility and interest rate dynamics | Jupyter Notebook |
 | **[Binomial-Trinomial-Asian-Option-Pricing](https://github.com/QuantSingularity/Binomial-Trinomial-Asian-Option-Pricing)** | Lattice methods for exotic option valuation | Jupyter Notebook |
